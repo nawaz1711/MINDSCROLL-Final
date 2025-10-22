@@ -1,0 +1,21 @@
+# TODO for Completing MindScroll Frontend
+
+- [x] Create client folder for React app
+- [x] Set up React app in client using create-react-app
+- [x] Move LoginPage.jsx and RegisterPage.jsx to client/src/components
+- [x] Create client/src/services/authService.js
+- [x] Create client/src/services/postService.js
+- [x] Create client/src/services/commentService.js
+- [x] Create client/src/services/likeService.js
+- [x] Create client/src/context/AuthContext.js
+- [x] Create client/src/components/Home.jsx
+- [x] Create client/src/components/PostDetail.jsx
+- [x] Create client/src/components/CreatePost.jsx
+- [x] Create client/src/components/EditPost.jsx
+- [x] Create client/src/components/Navbar.jsx
+- [x] Create client/src/components/Footer.jsx
+- [x] Update client/src/App.js with routing
+- [x] Add CSS files for styling
+- [x] Install dependencies (react-router-dom, axios, react-markdown, etc.)
+- [x] Update client/package.json
+- [x] Test the frontend with backend
